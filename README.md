@@ -4,8 +4,7 @@ This page was made with the basic fundamentals of web development. Initially bui
 
 First project that I've developed using an API.
 
-Ingredients:
-
+<pre>
 HTML: Hyper Text Markup Language
 CSS: Cascading Style Sheets
 JS: A Scripting Language For Web Pages
@@ -17,4 +16,5 @@ AUTH.
 |  |  |  |   ___| |  |    |  | |  |
 |  |\  \ |  |____ |  |    |  |_|  |
 |__| \__\|_______||__|    |_______|
+</pre>
 P.S. There may-be frequent updates on this repository throughout time.
